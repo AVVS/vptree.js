@@ -1,0 +1,30 @@
+{
+  "name": "vptree",
+  "version": "1.0.0",
+  "description": "Javascript implementation of the Vantage-Point Tree nearest neighbor search algorithm",
+  "main": "vptree.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AVVS/vptree.js.git"
+  },
+  "keywords": [
+    "vptree",
+    "vintage",
+    "point",
+    "tree",
+    "data",
+    "structures"
+  ],
+  "author": "François Pirsch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AVVS/vptree.js/issues"
+  },
+  "homepage": "https://github.com/AVVS/vptree.js"
+}
